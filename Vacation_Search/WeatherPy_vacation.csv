@@ -1,0 +1,49 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+17,Idritsa,RU,45.03,overcast clouds,56.3316,28.8988,Yasnyy Les
+29,Tongliao,CN,49.71,clear sky,43.6125,122.2653,Meirujia Hotel
+31,Pokrovskoye,RU,46.99,overcast clouds,47.4157,38.8971,Тихий уголок
+33,Hasaki,JP,46.4,few clouds,35.7333,140.8333,Hotel Sunrise Choshi
+38,Bluff,NZ,50.0,light rain,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+45,Mataura,NZ,50.0,broken clouds,-46.1927,168.8643,Ellie's Villa
+48,Ushuaia,AR,50.0,broken clouds,-54.8,-68.3,Albatros Hotel
+53,New Norfolk,AU,48.99,overcast clouds,-42.7826,147.0587,The Shingles Riverside Cottages
+94,Kimry,RU,48.16,overcast clouds,56.8667,37.35,Гостиница Чайка
+119,Hobart,AU,48.99,broken clouds,-42.8794,147.3294,Mantra on Collins Hobart
+126,Chifeng,CN,48.02,clear sky,42.2683,118.9636,Junyu Tiancheng Hotel
+145,Lasa,IT,48.0,mist,46.6166,10.7002,Pension Feldgärtenhof
+162,Buguruslan,RU,48.94,overcast clouds,53.6554,52.442,Gostinitsa Russkaya Piramida
+169,Narsaq,GL,50.0,clear sky,60.9167,-46.05,Hotel Narsaq
+182,Marquette,US,46.0,light rain,46.5333,-87.6335,Al Quaal Lodge
+205,Dandong,CN,48.72,moderate rain,40.1292,124.3947,Yiranju Farmstay
+214,Warragul,AU,48.99,overcast clouds,-38.1667,145.9333,Comfort Inn & Suites Warragul
+218,Green River,US,48.2,clear sky,41.5286,-109.4662,Hampton Inn & Suites Green River
+219,Alice Springs,AU,46.4,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+227,Tuatapere,NZ,50.0,overcast clouds,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+247,Palmer,US,50.0,overcast clouds,42.1584,-72.3287,Wedgewood Motel
+264,Westport,US,50.0,moderate rain,41.1415,-73.3579,The Westport Inn
+267,Aix-Les-Bains,FR,48.2,moderate rain,45.6834,5.9224,Hôtel Villa Marlioz
+272,Khor,RU,45.14,moderate rain,47.8861,134.9464,Gostinitsa Deksi
+309,Muros,ES,50.0,clear sky,42.7762,-9.0603,Apartment Av. Castelao
+317,Wuda,CN,47.19,overcast clouds,39.4994,106.7117,Grape Sightseeing Garden
+334,Port Hardy,CA,46.4,few clouds,50.6996,-127.4199,Airport Inn
+343,Shimoda,JP,50.0,broken clouds,34.6667,138.95,Shimoda Tokyu Hotel
+346,Aviles,ES,48.99,scattered clouds,43.5547,-5.9248,Hotel NH Collection Palacio de Avilés
+350,Beidao,CN,48.56,overcast clouds,34.5686,105.8933,Shell Tianshui Maiji District Erma Road Walking Street Hotel
+373,Bemidji,US,48.99,overcast clouds,47.4736,-94.8803,Hampton Inn & Suites Bemidji
+386,Urumqi,CN,48.2,clear sky,43.801,87.6005,Hua Ling Grand Hotel Urumqi
+393,Oktyabrskiy,RU,46.49,overcast clouds,54.4815,53.471000000000004,Уязы-Тау гостиница
+405,Wanaka,NZ,50.0,light rain,-44.7,169.15,Wanaka Homestead Lodge and Cottages
+423,Sudak,UA,46.83,overcast clouds,44.85,34.9667,Solari Beach
+437,Ucluelet,CA,48.99,few clouds,48.9329,-125.5528,Black Rock Oceanfront Resort
+441,Palafrugell,ES,48.2,light rain,41.9174,3.1631,Hotel La Torre
+462,Narrabri,AU,46.99,clear sky,-30.3167,149.7833,Crossroads Hotel
+465,Srinagar,IN,48.61,overcast clouds,34.0833,74.8167,Hotel New Green View
+499,Pingzhuang,CN,45.19,few clouds,42.0372,119.2889,Haoke Guest House
+533,Aras,ES,46.4,broken clouds,42.5617,-2.356,Jardines de Viana Spa
+546,Kitob,UZ,48.2,clear sky,39.0843,66.8332,ULUG'BEK Hotel&Spa
+591,Zapadnaya Dvina,RU,45.75,broken clouds,56.25899999999999,32.0745,Besedka
+593,Pasvalys,LT,46.4,clear sky,56.0594,24.4036,Camping & Camper place Pasvalys
+610,Chippewa Falls,US,48.99,overcast clouds,44.9369,-91.3929,AmericInn by Wyndham Chippewa Falls
+629,Nevel,RU,46.17,overcast clouds,56.0209,29.9284,Uyut
+633,Agen,FR,48.2,clear sky,44.2,0.6333,Appart'City Agen Centre - Appart Hôtel
+696,Tobermory,CA,48.2,overcast clouds,45.2501,-81.6665,Escarpment Heights Motel
